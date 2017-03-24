@@ -14,9 +14,9 @@ namespace Core
 {
 	MinerConfig::MinerConfig()
 	{
-		strHost = "";
+		strHost = "nexusminingpool.com";
 		nPort = "9549"; // 9325 for solo
-		strNxsAddress = "2S4PPSznWfPVLtPJNpi8Ly46Wft3wGbayGkhaGzKLVcepmrhKTP";
+		strNxsAddress = "2RNueaesjr3tiBHn2hWD4F1mYp5e2YC3PdkKewg7oHZY57D5Sob";
 		nMiningThreads = 0; // 0 = use all threads
 		nTimeout = 10; 
 		nBitArraySize = 37748736; // 1024*1024*36
