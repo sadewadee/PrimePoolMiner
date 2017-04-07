@@ -1,10 +1,10 @@
 {
-	"host": "",
+	"host": "nexusminingpool.com",
 	"port": "9549",
-	"nxs_address": "",
+	"nxs_address": "2RNueaesjr3tiBHn2hWD4F1mYp5e2YC3PdkKewg7oHZY57D5Sob",
 	"threads": 0,
 	"timeout": 10,
-	"bit_array_size": 37748736,
+	"bit_array_size": 25165824,
 	"prime_limit": 71378571,
 	"n_prime_limit": 4194304,
 	"primorial_end_prime": 12
