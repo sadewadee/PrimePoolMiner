@@ -19,7 +19,7 @@ namespace Core
 		strNxsAddress = "2RNueaesjr3tiBHn2hWD4F1mYp5e2YC3PdkKewg7oHZY57D5Sob";
 		nMiningThreads = 0; // 0 = use all threads
 		nTimeout = 10; 
-		nBitArraySize = 37748736; // 1024*1024*36
+		nBitArraySize = 25165824; // 1024*1024*36
 		primeLimit = 71378571;
 		nPrimeLimit = 4194304;
 		nPrimorialEndPrime = 12;
